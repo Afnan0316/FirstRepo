@@ -1,0 +1,6 @@
+# if i want to the value of pi
+import math
+print("the value of pi",math.pi)
+import statistics
+x=[1,2,3,4]
+print(statistics.mean(x))
